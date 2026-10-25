@@ -1,0 +1,8 @@
+{
+  "name": "Remix Personal Finance Advisor Bot",
+  "description": "AI-powered personal finance advisor bot for Prathamesh Shingne and smart wealth management with multi-scenario budgeting, expense auditing, and savings tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
